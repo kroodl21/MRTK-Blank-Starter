@@ -1,4 +1,4 @@
-A starter MRTK Unity project that can help you save time to do a lengthy environment set-up.
+A starter MRTK Unity project that you can use immediately without going through the lengthy setup.
 
 This repo was made based on Microsoft Mixed Reality Toolkit(MRTK) Beginner tutorial environment set-up instructions at https://docs.microsoft.com/en-us/windows/mixed-reality/develop/unity/tutorials/mr-learning-base-02?tabs=openxr. The challenging part is to get all the settings right, which can be quite tedious. If you install software listed under 'Prerequisites' at https://docs.microsoft.com/en-us/windows/mixed-reality/develop/unity/tutorials/mr-learning-base-01 and clone this repo, you can save a lot of time and immediately build the scene or follow the beginner tutorial.
 
